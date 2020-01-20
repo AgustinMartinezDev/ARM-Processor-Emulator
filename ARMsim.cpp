@@ -1,9 +1,3 @@
-/* “On my honor, I have neither given nor received unauthorized aid on this assignment”.
-    Agustin Martinez 
-    CDA3101 
-    Dr.Mishra 
-*/
-
 #include <iostream>
 #include <fstream> 
 #include <map> 
